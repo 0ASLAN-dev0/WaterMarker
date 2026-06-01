@@ -47,7 +47,8 @@ Click **Remove watermark** to clear it instantly.
 - **Color & opacity**: Subtle blend or bold stamp
 - **Tile spacing**: Control pattern density
 - **Drop shadow**: Extra contrast on bright backgrounds
-- **Live preview**: changes apply instantly as you adjust settings
+- **Live preview**: Changes apply instantly as you adjust settings
+- **Auto-Save**: Settings are remembered between sessions, no need to readjust every time
 
 ---
 
