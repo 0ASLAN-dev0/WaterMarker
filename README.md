@@ -47,7 +47,7 @@ Click **Remove watermark** to clear it instantly.
 - **Color & opacity**: Subtle blend or bold stamp
 - **Tile spacing**: Control pattern density
 - **Drop shadow**: Extra contrast on bright backgrounds
-- **One-click remove**: Toggle off without reloading the page
+- **Live preview**: changes apply instantly as you adjust settings
 
 ---
 
