@@ -2,7 +2,7 @@
 
 A free, fully customizable browser extension for artists to watermark their art, right in the browser, in seconds.
 
-![WaterMarker Extension](thumbnail.png)
+![WaterMarker Extension](preview.png)
 
 ---
 
