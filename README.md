@@ -1,8 +1,8 @@
-# WatermarkIt
+# WaterMaker
 
 A free, fully customizable browser extension for artists to watermark their art, right in the browser, in seconds.
 
-![WatermarkIt Extension](preview.png)
+![WaterMaker Extension](preview.png)
 
 ---
 
@@ -10,7 +10,7 @@ A free, fully customizable browser extension for artists to watermark their art,
 
 The extension is pre-packed and ready to go, no building or setup needed (Works on Chrome, Brave, Edge, Opera and any Chromium browser).
 
-**Step 1**: Download `watermarkit.crx` from the [Releases](../../releases) page
+**Step 1**: Download `WaterMaker.crx` from the [Releases](../../releases) page
 
 **Step 2**, Open your browser and go to `[your-browser-name]://extensions`
 (e.g. `chrome://extensions`, `brave://extensions`, `opera://extensions`, `edge://extensions`)
@@ -23,14 +23,14 @@ The extension is pre-packed and ready to go, no building or setup needed (Works 
 
 **Step 6**: Click **Approve extension** on the prompt that appears
 
-The WatermarkIt extension will appear in your extensions tab. Click it on any tab to get started.
+The WaterMaker extension will appear in your extensions tab. Click it on any tab to get started.
 
 ---
 
 ## How to Use
 
 1. Open your artwork in a browser tab, just drag the image file into your browser
-2. Click the **WatermarkIt** extension in your extensions tab
+2. Click the **WaterMaker** extension in your extensions tab
 3. Customize your watermark text (your name, font size, color, spacing etc)
 4. Adjust the settings to your liking
 5. Watermark is live, screenshot or screen record away
